@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap');
+
+/*
+    a todos los elementos de html, aplicarles el font nunito sans mas un tamanio de
+    32 pixeles
+*/
+* {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 32px;
+}
